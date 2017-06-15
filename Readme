@@ -1,0 +1,7 @@
+This was the inventory management project me amd my friends made for our pre final year project
+We have used Arduino programming
+RFID cards and a reader module.
+The objects present in an inventory is shown in the LCD display when it reads one card going inside.While the same card go out or 
+to say when it reads the same card twice,the second time it gets deducted from the stock.
+The import and export from the inventory is shown accordingly.
+This is a really premitive version of inventory management and has several loopholes. 
